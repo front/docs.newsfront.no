@@ -3,7 +3,7 @@
 	"tagline": "Drupal & Wordpress SaaS for mediehus",
 	"docs_path": "docs",
 	"image": "img/app.png",
-	"theme": "navy",
+	"theme": "red",
 	"template":"default",
 	"toggle_code": true,
 	"date_modified": true,
