@@ -11,7 +11,7 @@
 	"twitter": ["frontkom"],
 	"google_analytics": "UA-XXXXXXXX-XX",
 	"links": {
-		"Help/Support/Bugs": "http://docs.newsfront.no/",
-		"Made by Frontkom": "http://frontkom.com"
+		"Help/Support/Bugs": "http://docs.newsfront.no",
+		"Made by Frontkom": "http://www.frontkom.no"
 	}
 }
