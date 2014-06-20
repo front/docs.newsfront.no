@@ -1,4 +1,4 @@
-**Daux.io** is an documentation generator that uses a simple folder structure and Markdown files to create custom documentation on the fly. It helps you create great looking documentation in a developer friendly way.
+*This** is an documentation generator that uses a simple folder structure and Markdown files to create custom documentation on the fly. It helps you create great looking documentation in a developer friendly way.
 
 ## Features
 
@@ -23,7 +23,7 @@ This is a list of sites using Daux.io:
 
 * [Daux.io](http://daux.io)
 * [Gltn - An open-source word processor webapp](http://ia3.ahoyworld.co.uk/)
-* [Invade & Annex 3 - An Arma 3 Co-operative Mission](http://ia3.ahoyworld.co.uk/)	
+* [Invade & Annex 3 - An Arma 3 Co-operative Mission](http://ia3.ahoyworld.co.uk/)
 * [Munee: Standalone PHP 5.3 Asset Optimisation & Manipulation](http://mun.ee)
 * [ICADMIN: An admin panel powered by CodeIgniter.](http://istocode.com/shared/ic-admin/)
 * [Daux.io in Chinese - Demonstrates muti-language installations](http://daux.emx2.co.uk/)
