@@ -1,7 +1,8 @@
+<!--
 <p class="lead">
 	<strong>Newsfront</strong> is developed by Frontkom.
 </p>
-
+-->
 
 <img src="http://www.newsfront.no/assets/images/home-slider/responsive-showcase.png" alt="alt text" class="img-responsive pull-right"  style="margin-bottom:20px;">
 
