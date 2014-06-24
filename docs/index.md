@@ -2,9 +2,6 @@
 	<strong>Newsfront</strong> is developed by Frontkom.
 </p>
 
-<hr/>
-<h3>Features</h3>
-<hr/>
 
 <img src="http://www.newsfront.no/assets/images/home-slider/responsive-showcase.png" alt="alt text" class="img-responsive pull-right"  style="margin-bottom:20px;">
 
