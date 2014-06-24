@@ -8,23 +8,6 @@
 
 <img src="http://www.newsfront.no/assets/images/home-slider/responsive-showcase.png" alt="alt text" class="img-responsive pull-right"  style="margin-bottom:20px;">
 
-* 100% Mobile Responsive
-* Supports GitHub Flavored Markdown
-* Auto created homepage/landing page
-* Auto Syntax Highlighting
-* Auto Generated Navigation
-* 4 Built-In Themes or roll your own
-* Functional, Flat Design Style
-* Shareable/Linkable SEO Friendly URLs
-* Built On Bootstrap
-* No Build Step
-* Git/SVN Friendly
-* Google Analytics
-* Optional code float layout
-
-<div class="clear"></div>
-<hr/>
-
 <!-- Google Code -->
 <script type="text/javascript">
 /* <![CDATA[ */
