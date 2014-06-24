@@ -6,7 +6,7 @@
 <h3>Features</h3>
 <hr/>
 
-<img src="img/app-thumbs.png" alt="alt text" class="img-responsive pull-right"  style="margin-bottom:20px;">
+<img src="http://www.newsfront.no/assets/images/home-slider/responsive-showcase.png" alt="alt text" class="img-responsive pull-right"  style="margin-bottom:20px;">
 
 * 100% Mobile Responsive
 * Supports GitHub Flavored Markdown
