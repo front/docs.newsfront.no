@@ -37,6 +37,7 @@ The Media tab will show you all media items plus adding, filtering, search by ta
 
 ![media tab options](/img/media-tab.png)
 
+
 Media handling is described in detail in <a http://docs.newsfront.no/Content_Management/Media">Media</a> section.
 
 ### Create Content

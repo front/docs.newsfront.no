@@ -36,6 +36,7 @@ You might find the _Distracting free writing mode_ very useful. It allows to be 
 
 #### Publishing
 This is the last set when you can decide to publish your article immediately or schedule for later. In this area you are presented with 7 tabs with different options to set for your article.
+
 ![Source view](/img/publishing-options.png)
 
 1. **Publishing** - Here you just need to set the date and time when to make your article visible to your visitors - Publish. If you want to publish immediately just leave the fields _Publish on_ empty.
@@ -54,5 +55,6 @@ If you are editing a previously published article two other buttons will be visi
 You can access all articles from the work area. Use the top tool bar menu > _Home._ At work area select the _My content>All Recent Content_. In this screen you have several filtering options that allow you to find what you are looking for.
 
 Click the articles' title or the edit option at far right and you'll get sent to article edit page.
+
 ![all recent content](/img/all-recent-content.png)
 
