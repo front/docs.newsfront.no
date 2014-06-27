@@ -34,7 +34,9 @@ Here you can see content, access your edits, access all recent content and edit 
 
 ### Media
 The Media tab will show you all media items plus adding, filtering, search by tags and view, edit and delete options.
+
 ![media tab options](/img/media-tab.png)
+
 Media handling is described in detail in <a http://docs.newsfront.no/Content_Management/Media">Media</a> section.
 
 ### Create Content
