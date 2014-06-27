@@ -21,7 +21,7 @@ Depending on your role you might have less or more options/permissions to perfor
 Each major section typically comes with a sub-menu that can drop-down and expand to show extra options.
 
 The area in the middle of the screen is called the work area. This is where you can write, edit, and delete posts, add media, check scheduled posts as well as adjust profile settings. 
-![top toolbar](/img/work-area.png)
+![work area](/img/work-area.png)
 
 
 

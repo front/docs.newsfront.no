@@ -51,3 +51,10 @@ If you are editing a previously published article two other buttons will be visi
 	
 
 ### Editing articles
+You can access all articles from the work area. Use the top tool bar menu > Home.
+
+#### My Content
+Here you can see and filter your content. Access all recent content and Edit your profile.
+![my content](/img/my-content.png)
+
+
