@@ -52,5 +52,7 @@ If you are editing a previously published article two other buttons will be visi
 
 ### Editing articles
 You can access all articles from the work area. Use the top tool bar menu > _Home._ At work area select the _My content>All Recent Content_. In this screen you have several filtering options that allow you to find what you are looking for.
+
+Click the articles' title or the edit option at far right and you'll get sent to article edit page.
 ![all recent content](/img/all-recent-content.png)
 
