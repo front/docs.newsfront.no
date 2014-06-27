@@ -50,7 +50,7 @@ In this tab you can see and add available content types:
 6. **Job ad** - 
 7. **Widget** - Widget that displays small static content and/or other content published on the site
 
-### Editing articles
+### Schedule
 See and manage scheduled content publishing.
 
 ![schedule](/img/schedule.png)
