@@ -44,6 +44,10 @@ This is the last set when you can decide to publish your article immediately or 
 4. **Meta tags** - automatically set for you, no need to take action on this one too.
 5. **Authoring information** - add who is publish in this article and publication date and time.
 6. **Publishing options** - _Published_: visible to users; _Promoted to front page_ and _Stick at top of list_: will show the article at top, even if there are newer articles (given that these do not also have these options active).
+
+It _Save_ button when done!
+
+If you are editing a previously published article two other buttons will be visible to you: _View Changes_ and _Delete_. 
 	
 
 
