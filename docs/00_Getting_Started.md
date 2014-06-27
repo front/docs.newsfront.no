@@ -25,4 +25,21 @@ The area in the middle of the screen is called the work area. This is where you 
 
 
 
+### My Content
+Here you can see content, access your edits, access all recent content and edit your profile.
+![my content](/img/my-content.png)
 
+### Media
+The Media tab will show you all media items plus adding, filtering, search by tags and view, edit and delete options.
+![media tab options](/img/media-tab.png)
+Media handling is described in detail in <a http://docs.newsfront.no/Content_Management/Media">Media</a> section.
+
+### Create Content
+In this tab you can see and add available content types:
+1. **Ad** - Ad that can contain an image with optional link, or 3rd party code (iframe or script)
+2. **Article** - Content with categories and tags, that can be published in multiple pages and widgets
+3. **Edition** - Edition displays a numbered edition of a magazine
+4. **Front page** - The front page of a section, for example. Home, Culture and Sport. 
+5. **Static page** - Static page displays information that doesn't change often, on its own path
+6. **Stillingsannonse** - 
+7. **Widget** - Widget that displays small static content and/or other content published on the site
