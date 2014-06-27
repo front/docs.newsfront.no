@@ -29,6 +29,7 @@ The area in the middle of the screen is called the work area. This is where you 
 
 ### My Content
 Here you can see content, access your edits, access all recent content and edit your profile.
+
 ![my content](/img/my-content.png)
 
 ### Media
