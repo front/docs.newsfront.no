@@ -47,5 +47,10 @@ In this tab you can see and add available content types:
 3. **Edition** - Edition displays a numbered edition of a magazine
 4. **Front page** - The front page of a section, for example. Home, Culture and Sport. 
 5. **Static page** - Static page displays information that doesn't change often, on its own path
-6. **Stillingsannonse** - 
+6. **Job ad** - 
 7. **Widget** - Widget that displays small static content and/or other content published on the site
+
+### Editing articles
+See and manage scheduled content publishing.
+
+![schedule](/img/schedule.png)
