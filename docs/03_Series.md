@@ -13,6 +13,6 @@ Before we save it, let's position it properly on the front page:
 - Set Type: Series, and Position: Home page series (or wherever your preconfigured positions are)
 - Give it a weight to sort the order among the other Series you want displayed
 
-***Save**
+***Save***
 
 That's it!
