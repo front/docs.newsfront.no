@@ -3,10 +3,6 @@
 ### Adding an article
 There are two ways of adding a new article - either through admin bar at top, under _Shortcuts>Ny artikkel_ (1) or on Work Area tabs _Create_ content (2).
 
-<iframe src="//player.vimeo.com/video/99716445?byline=0&amp;portrait=0" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-
-![adding articles options](/img/add-article-options.png)
-
 Using the _Create content_ option will bring you to a new screen in which you can select the content type _Article_.
 
 ![adding articles options](/img/add-article.png)
@@ -59,6 +55,3 @@ You can access all articles from the work area. Use the top tool bar menu > _Hom
 Click the articles' title or the edit option at far right and you'll get sent to article edit page.
 
 ![all recent content](/img/all-recent-content.png)
-
-
-
