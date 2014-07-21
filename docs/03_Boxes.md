@@ -14,6 +14,8 @@ A box is very simple: It has a title, and a body field. Now it is easier than ev
 
 <img src="/docs/img/box/edit-box.png">
 
-**3. Add existing box**
+**3. Add existing box (existing node)**
 
 <img src="/docs/img/box/existing.png">
+
+And yes, you can add as many you want per article!
