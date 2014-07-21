@@ -1,6 +1,6 @@
 Some Newsfront sites have been upgraded to our new Media system. Here's how it works!
 
-**1. Click "Select Media"** to find all the images you will use for the article. 
+**1. Click "Select media"** button to find all the images you will use for the article. 
 
 <img src="/docs/img/media/area.png">
 
