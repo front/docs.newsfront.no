@@ -17,6 +17,9 @@
 		"syntax-number": "#2f9b92",
 		"syntax-label": "#840d7a"
 	},
+	"ignore": {
+            "folders": ["img"]
+        },
 	"toggle_code": false,
 	"date_modified": false,
 	"repo": false,
