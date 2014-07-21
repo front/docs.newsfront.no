@@ -1,6 +1,6 @@
 ## Adding & editing articles
 
-<iframe src="//player.vimeo.com/video/99716445?byline=0&amp;portrait=0" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<a href="#video">Scroll to see video</a>
 
 
 ### Adding an article
@@ -58,3 +58,10 @@ You can access all articles from the work area. Use the top tool bar menu > _Hom
 Click the articles' title or the edit option at far right and you'll get sent to article edit page.
 
 ![all recent content](/img/all-recent-content.png)
+
+
+## Video instruction
+
+<div id="video">
+<iframe src="//player.vimeo.com/video/99716445?byline=0&amp;portrait=0" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+</div>
