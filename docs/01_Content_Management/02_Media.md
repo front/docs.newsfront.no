@@ -10,6 +10,6 @@ Some Newsfront sites have been upgraded to our new Media system. Here's how it w
 **4. Decide your main image*** for the article. Note that they will not appear anywhere when they have yellow bacground; you need to drag & drop your imag into the Main image spot. For most sites, you only need to use Main image. Some sites however, need some extra flexibility to add separate images for different contexts. For most cases, just adding one image (Main) works great.
 
 
-*Coming soon image cropping!*
+*Coming soon: image cropping!*
 
 
