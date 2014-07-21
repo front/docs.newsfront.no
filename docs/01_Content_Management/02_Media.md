@@ -1,15 +1,16 @@
-This Chapter is all about Media handling.
+Some Newsfront sites have been upgraded to our new Media system. Here's how it works!
 
-### Adding Media truth Media tab on work Area
+## Uploading images for an article
+***1. Click "Select Media"*** to find all the images you will use for the article. 
 
-![media tab options](/img/media-tab.png)
+***2. Upload new images*** by "drag and drop"
 
-The Media tab will show you all media items plus adding, filtering, search by tags and view, edit and delete options.
+***3. Library: Find an existing image***
 
-You can add new media by selecting the **Add atom** option. Select from the 3 following media types:
-- Factbox -
-- **Image** - upload an image from you computer, select continue and fill the required info for you image. Try adding tags all the time - in future you can quickly filter/search for them.
+***4. Decide your main image*** for the article. Note that they will not appear anywhere when they have yellow bacground; you need to drag & drop your image into the Main image spot. For most sites, you only need to use Main image. Some sites however, need some extra flexibility to add separate images for different contexts. For most cases, just adding one image (Main) works great.
 
-![creat atom image](/img/create-atom-image-png)
 
-- **Video** - Select a source for your video: youtube or vimeo - and enter the URL for it. 
+**Coming soon image cropping!**
+
+
+
