@@ -2,7 +2,7 @@
 
 Make your articles more interesting by adding reusbale article boxes!
 
-A box is a piece of content that typically appears in the article sidebar. They can be reused across articles, and they can contain HTML. 
+A box is a piece of content that typically appears in the article sidebar. They can be reused across articles, and they can contain HTML. Now, boxes are part of the Drupal node system, with access control, versioning, and more.
 
 A box is very simple: It has a title, and a body field. Now it is easier than ever to add and edit boxes from your article form!
 
