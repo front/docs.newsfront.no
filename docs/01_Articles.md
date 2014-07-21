@@ -1,6 +1,3 @@
-## Adding & editing articles
-
-<a href="http://docs.newsfront.no/Content_Management/Video">Watch the video!</a>
 
 <iframe src="//player.vimeo.com/video/99716445?byline=0&amp;portrait=0" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
