@@ -8,6 +8,7 @@
 	"toggle_code": true,
 	"date_modified": false,
 	"repo": false,
+	 "float": false,
 	"twitter": ["frontkom"],
 	"google_analytics": "UA-XXXXXXXX-XX",
 	"links": {
