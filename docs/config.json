@@ -5,7 +5,7 @@
 	"image": "img/app.png",
 	"theme": "green",
 	"template":"default",
-	"toggle_code": true,
+	"toggle_code": false,
 	"date_modified": false,
 	"repo": false,
 	 "float": false,
