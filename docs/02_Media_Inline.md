@@ -1,3 +1,5 @@
+<iframe src="//player.vimeo.com/video/101704408" width="500" height="351" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
 It is now easier than ever to work with inline media. This new system is still being tested however, so feel free to send your feedback to perandre@front.no.
 
 **1. Upload all the images you need**
@@ -9,11 +11,11 @@ Click Select media, and follow the standard flow here: http://docs.newsfront.no/
 
 **4. Choose an image from the library**
 
-**5. Pick a view mode**, either: Full-width, half-width or small-width. These are different width settings for the image (test them, and see what they look like!). 
+**5. Align the image and add caption**, either: Left, Right or Centered. These are different width and alignment settings for the image (test them, and see what they look like!). 
 
-Enter an alt tag, and also a title: the title will appear as a credit in the image caption. There is a separate field for the main image caption text. Try it out!
+Enter an alt tag, and also check off to get an image caption.
 
-Save article, and view the result.
+View the result instantly, but remember to save
 
 Good luck!
 
