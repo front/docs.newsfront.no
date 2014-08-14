@@ -19,3 +19,5 @@ A box is very simple: It has a title, and a body field. Now it is easier than ev
 <img src="/docs/img/box/existing.png">
 
 And yes, you can add as many you want per article!
+
+Protip: Boxes can also be used for embedding 3rd party content, like Polls! http://docs.newsfront.no/Boxes
