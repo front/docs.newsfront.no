@@ -1,6 +1,6 @@
 <iframe src="//player.vimeo.com/video/103994591" width="500" height="339" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
-This is useful for adding PDFs and documents inline in the body text.
+This is useful for adding PDFs and documents inline in the article body text.
 
 1. Click the Media tab, and Add file link
 2. Upload a bunch of files by dragging and dropping into the upload area
