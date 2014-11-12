@@ -1,4 +1,4 @@
-First: Log in!
+*First:* Log in!
 
 
 ![admin login](/img/admin-loginform.png)
@@ -39,9 +39,9 @@ In this tab you can see and add available content types:
 1. **Ad** - Ad that can contain an image with optional link, or 3rd party code (iframe or script)
 2. **Article** - Content with categories and tags, that can be published in multiple pages and widgets
 3. **Edition** - Edition displays a numbered edition of a magazine
-4. **Front page** - The front page of a section, for example. Home, Culture and Sport. 
+4. **Front page** - The front page of a section, for example. Home, Culture and Sport.
 5. **Static page** - Static page displays information that doesn't change often, on its own path
-6. **Job ad** - 
+6. **Job ad** -
 7. **Widget** - Widget that displays small static content and/or other content published on the site
 
 ### Schedule
